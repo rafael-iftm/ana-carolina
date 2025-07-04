@@ -1,5 +1,5 @@
 const items = [
-  { src: "videos/tartaruga.mp4", caption: "🔥 Ana Carolina em momento de pura selvageria 🐢" },
+  { src: "videos/tartaruga2.mp4", caption: "🔥 Ana Carolina em momento de pura selvageria 🐢" },
   { src: "img/dormindo.jpg", caption: "😴 Ana Carolina depois de postar o story" },
   { src: "img/resultado-lol.jpg", caption: "💀 Resultado da MD5 de ontem" },
   { src: "img/lobo.jpg", caption: "🐺 El Lobo sempre cuida de su Loba ❤️" }
