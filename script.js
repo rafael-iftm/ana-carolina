@@ -58,3 +58,10 @@ function renderSlide(index) {
 
   caption.textContent = item.caption;
 }
+
+function moveSlide(direction) {
+  currentIndex = (currentIndex + direction + items.length) % items.length;
+  renderSlide(currentIndex);
+}
+
+window.onload = () => renderSlide(currentIndex);
